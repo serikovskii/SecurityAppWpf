@@ -1,0 +1,6 @@
+C:\Users\МукушевА.CORP\source\repos\SecurityAppWpfOne\SecurityAppWpfOne.Models\bin\Debug\SecurityAppWpfOne.Models.dll
+C:\Users\МукушевА.CORP\source\repos\SecurityAppWpfOne\SecurityAppWpfOne.Models\bin\Debug\SecurityAppWpfOne.Models.pdb
+C:\Users\МукушевА.CORP\source\repos\SecurityAppWpfOne\SecurityAppWpfOne.Models\obj\Debug\SecurityAppWpfOne.Models.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\source\repos\SecurityAppWpfOne\SecurityAppWpfOne.Models\obj\Debug\SecurityAppWpfOne.Models.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\source\repos\SecurityAppWpfOne\SecurityAppWpfOne.Models\obj\Debug\SecurityAppWpfOne.Models.dll
+C:\Users\МукушевА.CORP\source\repos\SecurityAppWpfOne\SecurityAppWpfOne.Models\obj\Debug\SecurityAppWpfOne.Models.pdb

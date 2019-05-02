@@ -1,0 +1,8 @@
+C:\Users\МукушевА.CORP\source\repos\SecurityAppWpfOne\SecurityAppWpfOne.Services\bin\Debug\SecurityAppWpfOne.Services.dll
+C:\Users\МукушевА.CORP\source\repos\SecurityAppWpfOne\SecurityAppWpfOne.Services\bin\Debug\SecurityAppWpfOne.Services.pdb
+C:\Users\МукушевА.CORP\source\repos\SecurityAppWpfOne\SecurityAppWpfOne.Services\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\МукушевА.CORP\source\repos\SecurityAppWpfOne\SecurityAppWpfOne.Services\obj\Debug\SecurityAppWpfOne.Services.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\source\repos\SecurityAppWpfOne\SecurityAppWpfOne.Services\obj\Debug\SecurityAppWpfOne.Services.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\source\repos\SecurityAppWpfOne\SecurityAppWpfOne.Services\obj\Debug\SecurityAppWpfOne.Services.csproj.CopyComplete
+C:\Users\МукушевА.CORP\source\repos\SecurityAppWpfOne\SecurityAppWpfOne.Services\obj\Debug\SecurityAppWpfOne.Services.dll
+C:\Users\МукушевА.CORP\source\repos\SecurityAppWpfOne\SecurityAppWpfOne.Services\obj\Debug\SecurityAppWpfOne.Services.pdb
